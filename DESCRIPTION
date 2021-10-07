@@ -4,8 +4,8 @@ Version: 0.1.0
 Authors@R: 
     person(given = "Janice",
            family = "Hsu",
-           role = c("aut", "cre")
-           email = "hhsu0002@student.monash.edu"
+           role = c("aut", "cre"),
+           email = "hhsu0002@student.monash.edu")
 Description: Lots and lots datasets(but not really, only one)
 License: AGPL (>= 3)
 Encoding: UTF-8
