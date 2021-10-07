@@ -2,14 +2,15 @@ Package: cwdata
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Janice",
+           family = "Hsu",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "hhsu0002@student.monash.edu"
 Description: What the package does (one paragraph).
 License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+URL: https://github.com/JaniceHsinHSU/cwdata
+BugReports: https://github.com/JaniceHsinHSU/cwdata/issues
